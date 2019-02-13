@@ -1,3 +1,4 @@
+Compiled: https://samybencherif.github.io/RotationProof/
 
 We start with the expression below, and wonder how it could possibly be equivalent to the far more simple expression $xcos(\theta) - ysin(\theta)$.
 
